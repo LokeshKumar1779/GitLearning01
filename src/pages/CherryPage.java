@@ -13,6 +13,5 @@ public class CherryPage {
 
         System.out.println("Cherry pick first method-second line");
         System.out.println("Cherry pick first method-third line");
-
     }
 }
