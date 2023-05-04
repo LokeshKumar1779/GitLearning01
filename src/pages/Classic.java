@@ -7,6 +7,7 @@ public class Classic {
         int age = 20;
         System.out.println("name : " +name +","+"age : " +age);
         System.out.println("BYE...");
+        System.out.println("I am loving resolving merge conflicts..");
     }
 
 }
