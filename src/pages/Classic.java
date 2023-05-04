@@ -6,6 +6,7 @@ public class Classic {
         String name = "Lokesh";
         int age = 20;
         System.out.println("name : " +name +","+"age : " +age);
+        System.out.println("BYE...");
     }
 
 }
