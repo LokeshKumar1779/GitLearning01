@@ -12,6 +12,8 @@ public class Classic {
 
         int sal = 12000;
         String add = "home";
+
+        System.out.println("hello line added");
     }
 
 }
