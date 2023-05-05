@@ -22,5 +22,9 @@ public class Classic {
     public void master(){
     System.out.println("Hello Master");
     }
+    
+    public void master1(){
+    System.out.println("Hello Master1");
+    }
 
 }
