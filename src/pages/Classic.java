@@ -17,5 +17,9 @@ public class Classic {
         int h = 10;
         int j = 11;
     }
+    
+    public void master(){
+    System.out.println("Hello Master");
+    }
 
 }
