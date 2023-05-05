@@ -9,8 +9,9 @@ public class Classic {
         System.out.println("BYE...");
         System.out.println("I am loving resolving merge conflicts..");
         System.out.println("It isn't that difficult to resolve merge conflicts");
-        
+
         int sal = 10000;
+        String add = "home";
     }
 
 }
