@@ -18,6 +18,10 @@ public class Classic {
         int j = 11;
         int k = 12;
     }
+
+    public void master_1(){
+        System.out.println("Hello master_1");
+    }
     
     public void master(){
     System.out.println("Hello Master");
