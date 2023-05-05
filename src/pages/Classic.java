@@ -10,7 +10,7 @@ public class Classic {
         System.out.println("I am loving resolving merge conflicts..");
         System.out.println("It isn't that difficult to resolve merge conflicts");
 
-        int sal = 10000;
+        int sal = 12000;
         String add = "home";
     }
 
