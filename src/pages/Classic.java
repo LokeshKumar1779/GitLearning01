@@ -23,6 +23,10 @@ public class Classic {
         System.out.println("Hello master_1");
     }
     
+    public void master0(){
+    System.out.println("Hello Master0");
+    }
+    
     public void master(){
     System.out.println("Hello Master");
     }
