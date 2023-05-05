@@ -14,6 +14,7 @@ public class Classic {
         String add = "home";
 
         System.out.println("hello line added");
+        int h = 10;
     }
 
 }
