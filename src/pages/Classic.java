@@ -16,5 +16,9 @@ public class Classic {
         System.out.println("hello line added");
         int h = 10;
     }
+    
+    public void master(){
+    System.out.println("Hello Master");
+    }
 
 }
