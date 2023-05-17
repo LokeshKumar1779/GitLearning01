@@ -30,6 +30,8 @@ public class Classic {
     public void master(){
     System.out.println("Hello Master");
     int i = 10;
+    int j = 20;
+    int k = 30;
     }
     
     public void master1(){
