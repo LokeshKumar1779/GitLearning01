@@ -29,6 +29,7 @@ public class Classic {
     
     public void master(){
     System.out.println("Hello Master");
+    int i = 10;
     }
     
     public void master1(){
