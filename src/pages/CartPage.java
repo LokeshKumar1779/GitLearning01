@@ -9,9 +9,5 @@ public class CartPage {
         } else if (nameDT1 == "1") {
             System.out.println("Cart page has 1 item");
         }
-
-        while (true){
-            System.out.println("hello");
-        }
     }
 }
