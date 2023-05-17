@@ -9,15 +9,5 @@ public class CartPage {
         } else if (nameDT1 == "1") {
             System.out.println("Cart page has 1 item");
         }
-
-        switch (1){
-            case 1:
-                System.out.println("1");
-                break;
-            case 2:
-                System.out.println("2");
-            default:
-                System.out.println("3");
-        }
     }
 }
