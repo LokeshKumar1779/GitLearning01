@@ -12,5 +12,9 @@ public class TestPage {
         System.out.println("Line added3... by lokesh...");
         System.out.println("Line added4... by lokesh...");
         System.out.println("Line added5... by lokesh...");
+
+// test Branch code
+        System.out.println("New branch code 1");
+        System.out.println("New branch code 2");
     }
 }
