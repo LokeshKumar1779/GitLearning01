@@ -1,7 +1,5 @@
 package pages;
 
-import javax.swing.plaf.synth.SynthTextAreaUI;
-
 public class TestPage {
 
     public static void main(String[] args) {
