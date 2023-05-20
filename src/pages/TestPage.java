@@ -16,5 +16,7 @@ public class TestPage {
 // test Branch code
         System.out.println("New branch code 1");
         System.out.println("New branch code 2");
+        System.out.println("New branch code 3");
+        System.out.println("New branch code 4");
     }
 }
